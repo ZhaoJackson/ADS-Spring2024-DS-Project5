@@ -1,16 +1,13 @@
-# ADS Project 5: 
+# ADS Project 5: MBTI NLP Analysis  
 
-Term: Fall 2022
+Term: Spring 2024
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	+ Jingqi Wang
+	+ Zhengfei Chen
+	+ Zichen Zhao
+	
++ Project summary: Our topic of this project is analyzing common words used by diﬀerent personality types, based on over 8,000 social media posts. We use Natural Language Processing to see how certain words relate to the 16 MBTI types. This helps us understand how people of diﬀerent personalities communicate.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
